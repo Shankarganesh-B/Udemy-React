@@ -50,15 +50,6 @@ body{
   display: none;
 }
 
-.mobile-menu {
-  display: flex; /* Ensure it is shown when the state is true */
-  flex-direction: column;
-  background-color: #fff;
-  padding: 10px;
-  position: absolute;
-  top: 50px;
-  right: 0;
-}
 
 /*My learning popup*/
 .mylearning{
